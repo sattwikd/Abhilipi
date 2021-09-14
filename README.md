@@ -7,6 +7,7 @@ Abhilipi is built in python using pyqt5. Once the tool is triggered,
 
 Ctrl+Q takes you to the snipping window or use Snip and translate button to activate it.
 Once the snip is captured, using EasyOCR we capture the text from snip and provide the translation.
+
 ![image](https://user-images.githubusercontent.com/59434691/133246373-1fc0e185-2132-4f89-9066-1b3b524cde85.png)
 
 
